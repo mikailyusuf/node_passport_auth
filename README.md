@@ -1,0 +1,1 @@
+A simple node app showing how to use passport js for jwt authentication
